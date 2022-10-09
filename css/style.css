@@ -86,7 +86,7 @@ footer{
 
 
 .films {
-    background-image: url("..img/HTTYD1.png");
+    background-image: url("../img/HTTYD1.png");
     background-position: center;
     background-size: cover;
     border-width: 5px;
@@ -140,7 +140,7 @@ footer{
         font-size: 1.5vw;
     }
 .Games {
-    background-image: url("..img/old_testchamber.webp");
+    background-image: url("../img/old_testchamber.webp");
     background-position: center;
     background-size: cover;
     border-width: 5px;
