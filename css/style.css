@@ -16,7 +16,7 @@ nav {
     background-color: #604D53;
     text-decoration: none;
     font-size: 1.1vw;
-    color:white;
+    color:#FFFFFF;
   }
   nav a:hover {
     background-color: #FFF7AD;
@@ -44,7 +44,7 @@ nav {
     background-color:#604D53;
     display: flex;
     justify-content: center;
-    color:white;
+    color:#FFFFFF;
     font-size: 1vw;
 }
 .Plaatjes {
@@ -63,18 +63,18 @@ nav {
         border-radius: 10%;
     }
     .Plaatjes img:hover {
-       border-color: white;
+       border-color: #FFFFFF;
     }
 footer{
         background-color:#604D53;
         display: flex;
         justify-content: center;
-        color:white;
+        color:#FFFFFF;
         margin-top:3vw;
         
 }
     footer a {
-        color: white;
+        color: #FFFFFF;
         text-decoration: none;
         padding: 0.5vw;
         font-size:1vw;
@@ -97,7 +97,7 @@ footer{
     justify-content:center;
 }
 .films h1{
-    color:white;
+    color:#FFFFFF;
     display:flex;
     justify-content:center;
     padding: 10vw;
@@ -129,7 +129,7 @@ footer{
         text-align: center;
         padding: 1vw;
         background-color: #604D53;
-        color: white;
+        color: #FFFFFF;
         margin-top: 5vw;
         border-width: 5px;
         border-color: #604D53;
@@ -151,7 +151,7 @@ footer{
     justify-content:center;
 }
 .Games h1{
-    color:white;
+    color:#FFFFFF;
     display:flex;
     justify-content:center;
     padding: 10vw;
