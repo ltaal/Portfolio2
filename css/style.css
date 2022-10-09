@@ -23,7 +23,7 @@ nav {
     color: #604D53;
   }
 .home{
-    background-image: url("..img/knifechickcover.jpg");
+    background-image: url("main/img/knifechickcover.jpg");
     background-position: center;
     background-size: cover;
     border-width: 5px;
